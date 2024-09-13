@@ -43,7 +43,7 @@
   
     if ($conn->query($sql))
     {
-      echo "New record is inserted sucessfully";
+      echo "New record is inserted sucessfully";//new feature added
     }
     else
     {
